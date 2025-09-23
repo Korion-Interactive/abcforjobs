@@ -19,20 +19,24 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
   <li><b>Download:</b></li>
   <li><b>Repository:</b></li>
 </ul>
+
 # Sky Dash
 <ul>
   <li><b>Platform:</b> Android, iOS, Browser (WebGL)</li>
   <li><b>Hardware:</b> Tablet (z.B. Apple iPad), PC/li>
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
+  <li><b>Im Browser spielen:</b></li>
   <li><b>Repository:</b></li>
 </ul>
+
 # Laut-Manager
 <ul>
   <li><b>Platform:</b> Windows, Android, iOS, Browser (WebGL)</li>
   <li><b>Hardware:</b> Tablet (z.B. Apple iPad), PC/li>
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
+  <li><b>Im Browser spielen:</b></li>
   <li><b>Repository:</b></li>
 </ul>
 
