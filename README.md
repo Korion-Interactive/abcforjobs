@@ -19,7 +19,7 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
   <li><b>Repository:</b></li>
-  <li><b>Wissenschaftliche Evaluation/Publikation:</b> 10.25162/sprib-2024-0010</li>
+  <li><b>Wissenschaftliche Evaluation/Publikation:</b> https://doi.org/10.25162/sprib-2024-0010</li>
 </ul>
 
 # Sky Dash
