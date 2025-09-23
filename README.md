@@ -45,7 +45,7 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
 </ul>
 <br/>
 <b>Troubleshooting:</b> Im Fall von Fragen oder Problemen, wenden Sie sich bitte an benjamin[dot]schnitzer[at]korion[dot]de
-
+<br/>
 <img src="Resources/2025-06_Foerderleiste_ABCforJobs-neu.jpg" alt="Foerderleiste" width="600">
 
 <b>Förderhinweis</b><br/>
