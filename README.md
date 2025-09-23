@@ -26,17 +26,17 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
   <li><b>Hardware:</b> Tablet (z.B. Apple iPad), PC/li>
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
-  <li><b>Im Browser spielen:</b></li>
+  <li><b>Im Browser spielen:</b> https://abcforjobs.itch.io/sky-dash (Passwort: abcforjobs)</li>
   <li><b>Repository:</b></li>
 </ul>
 
 # Laut-Manager
 <ul>
   <li><b>Platform:</b> Windows, Android, iOS, Browser (WebGL)</li>
-  <li><b>Hardware:</b> Tablet (z.B. Apple iPad), PC/li>
+  <li><b>Hardware:</b> Tablet (z.B. Apple iPad), PC</li>
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
-  <li><b>Im Browser spielen:</b></li>
+  <li><b>Im Browser spielen:</b> https://abcforjobs.itch.io/laut-manager (Passwort: abcforjobs)</li>
   <li><b>Repository:</b></li>
 </ul>
 
