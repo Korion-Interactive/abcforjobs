@@ -5,7 +5,7 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
 # Syllable Soup (Virtual Reality)
  <ul>
   <li><b>Platform:</b> Windows (Unity, Steam VR)</li>
-  <li><b>Hardware:</b> HTC Vive Pro 2, HTC Vive Tracker 3.0/li>
+  <li><b>Hardware:</b> HTC Vive Pro 2, HTC Vive Tracker 3.0</li>
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
   <li><b>Repository:</b></li>
@@ -14,7 +14,7 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
 # VRoom Service (Virtual Reality)
 <ul>
   <li><b>Platform:</b> Android (Unity Build)</li>
-  <li><b>Hardware:</b> Meta Quest 3/li>
+  <li><b>Hardware:</b> Meta Quest 3</li>
   <li><b>Beschreibung:</b></li>
   <li><b>Download:</b></li>
   <li><b>Repository:</b></li>
