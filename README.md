@@ -48,5 +48,5 @@ In diesem Repository finden Sie in Kürze alle Ergebnisse (Serious Games und VR 
 </p>
 <img src="Resources/2025-06_Foerderleiste_ABCforJobs-neu.jpg" alt="Foerderleiste" width="600">
 
-<b>Förderhinweis</b><br/>
-Die Produkte wurde im Rahmen der Nationalen Dekade für Alphabetisierung und Grundbildung 2016-2026 mit Mitteln des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend unter dem Förderkennzeichen W-1505A-AOG gefördert.
+<i><b>Förderhinweis</b><br/>
+Die Produkte wurde im Rahmen der Nationalen Dekade für Alphabetisierung und Grundbildung 2016-2026 mit Mitteln des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend unter dem Förderkennzeichen W-1505A-AOG gefördert.</i>
